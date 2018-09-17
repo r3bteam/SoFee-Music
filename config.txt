@@ -1,6 +1,5 @@
 token=NDkwOTc2MTU3NTcxNzQzNzQ1.DoBIxg.-F0u0S2ce39svDYD-SzzBGpinag
 owner=329020191524519938 
 prefix=M
-game=نمثل النسيان و تهزمنا اغنيه .
 stayinchannel=true
 songinstatus=true
